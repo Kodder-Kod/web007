@@ -22,7 +22,6 @@
     "system-react",
     "design-system",
     "design-system-react"
-    
   ],
   "dependencies": {
     "@emotion/react": "^11.11.4",
@@ -54,7 +53,7 @@
     "react-scroll": "^1.9.0",
     "reactstrap": "8.10.0",
     "sass": "1.62.1",
-    "web-vitals": "3.3.1"
+    "web-vitals": "^3.3.1"
   },
   "peerDependencies": {
     "react": ">=16.8.0",

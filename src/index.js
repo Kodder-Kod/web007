@@ -124,11 +124,10 @@ root.render(
         <Route path="/landing-page" element={<LandingPage />} />
         <Route path="/register-page" element={<RegisterPage />} />
         <Route path="/profile-page" element={<ProfilePage />} />
-        <Route path="*" element={<Navigate to="/" replace />} />
       </Routes>
     </BrowserRouter>
   </React.StrictMode>
 
 );
 
-
+reportWebVitals();
